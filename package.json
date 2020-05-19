@@ -1,0 +1,23 @@
+{
+  "name": "google-sheets-express-test",
+  "version": "1.0.0",
+  "description": "Google sheets API test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkoyd/google-sheets-express-test.git"
+  },
+  "author": "Nicolás Londoño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darkoyd/google-sheets-express-test/issues"
+  },
+  "homepage": "https://github.com/Darkoyd/google-sheets-express-test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0"
+  }
+}
