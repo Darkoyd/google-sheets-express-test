@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Darkoyd/google-sheets-express-test#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^39.2.0"
   }
 }
